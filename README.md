@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/JEMHhAi.png"/>
+<img src="https://imgur.com/gc221Is.png"/>
+
+
 
 ### ⭐ About Me:
 I'm a digital/technical artist based in Canada. 
