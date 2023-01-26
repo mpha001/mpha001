@@ -1,5 +1,8 @@
+<img src="https://i.imgur.com/JEMHhAi.png"/>
+
 ### ⭐ About Me:
 I'm a digital/technical artist based in Canada. 
+
 
 • Currenctly working on AR prototype for streaming and content sharing
 
