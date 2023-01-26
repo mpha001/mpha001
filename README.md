@@ -1,14 +1,14 @@
-<img src="https://imgur.com/gc221Is.png"/>
+<div align="center"><img src="https://imgur.com/gc221Is.png"/></div>
+
+---
+
+### ⭐ About Me :
+I'm a digital/technical artist with experience in game development based in Canada. 
 
 
+   • Currenctly working on AR prototype for streaming and content sharing
 
-### ⭐ About Me:
-I'm a digital/technical artist based in Canada. 
-
-
-• Currenctly working on AR prototype for streaming and content sharing
-
-• Practicing Python, and exploring HSLSL, WebGL
+   • Practicing Python, and exploring HSLSL, WebGL
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -21,6 +21,6 @@ I'm a digital/technical artist based in Canada.
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="React" alt="React" width="40" height="40"/>
 </div>
 
-
+---
 
 You can reach me at info@minypham.com.
