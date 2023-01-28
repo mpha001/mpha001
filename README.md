@@ -6,7 +6,7 @@
 I'm a digital/technical artist with experience in game development based in Canada. 
 
 
-   • Currenctly working on AR prototype for streaming and content sharing
+   • Currenctly working on AR prototype for streaming services and content sharing
 
    • Practicing Python, and exploring HSLSL, WebGL
 
