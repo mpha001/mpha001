@@ -1,4 +1,3 @@
-<div align="center"><img src="https://imgur.com/gc221Is.png"/></div>
 
 ---
 
