@@ -7,7 +7,11 @@ I'm a digital/technical artist with experience in game development based in Cana
 
    • Currenctly working on an AR prototype for streaming services and content sharing
 
-   • Practicing Python, and exploring HSLSL, WebGL
+   • Practicing Python, C++
+   
+   • Automating scripts for games and applications
+
+   
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
