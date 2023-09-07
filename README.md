@@ -4,12 +4,11 @@
 ### ⭐ About Me :
 I'm a digital/technical artist with experience in game development based in Canada. 
 
-
-   • Currenctly working on an AR prototype for streaming services and content sharing
-
    • Practicing Python, C++
    
    • Automating scripts for games and applications
+   
+   • Currenctly working on an AR prototype for streaming services and content sharing
 
    
 
