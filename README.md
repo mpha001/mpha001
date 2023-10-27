@@ -25,4 +25,4 @@ I'm a digital/technical artist with experience in game development based in Cana
 
 ---
 
-You can reach me at info@minypham.com.
+
