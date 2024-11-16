@@ -1,9 +1,6 @@
 
 ---
 
-### About Me :
-I'm a digital/technical artist with experience in game development based in Canada. 
-
    • Practicing Web Development (HTML, Javascript, Node.js, three.js)
    
    • Automating scripts for games and applications (Python, C++)
