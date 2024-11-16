@@ -1,20 +1,22 @@
 
 ---
 
-### ⭐ About Me :
+### About Me :
 I'm a digital/technical artist with experience in game development based in Canada. 
 
-   • Practicing Python, C++
+   • Practicing Web Development (HTML, Javascript, Node.js, three.js)
    
-   • Automating scripts for games and applications
-   
-   • Currenctly working on an AR prototype for streaming services and content sharing
+   • Automating scripts for games and applications (Python, C++)
+
 
    
 
 ### :hammer_and_wrench: Languages and Tools :
+
+
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
