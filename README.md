@@ -3,7 +3,8 @@
 </center>
 </div>
 <center><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="50px"/></center>
-<b><center>Hello, it's Miny here!</center> </b>
+<b><center>
+Hello, it's Miny here!</center> </b>
 
 I'm a passionate Software Engineer experimenting intuitive interactive applications with a curiosity for WebGL. Follow me to see my journey through tech!
 
