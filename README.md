@@ -13,6 +13,7 @@ I'm a passionate Software Engineer experimenting intuitive interactive applicati
 
 ### :hammer_and_wrench: My Tech Stack:
 
+<div>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="Node" src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
@@ -26,4 +27,4 @@ I'm a passionate Software Engineer experimenting intuitive interactive applicati
 <img alt="Express" src="https://img.shields.io/badge/EXPRESS-000000?logo=express&logoColor=white&style=for-the-badge" />
 <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?logo=Blender&logoColor=white&style=for-the-badge" />
 <img alt="vscode" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=for-the-badge" />
-
+<div>
