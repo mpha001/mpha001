@@ -6,10 +6,10 @@
 <b><center>
 Hello, it's Miny here!</center> </b>
 
-I'm a passionate Software Engineer experimenting intuitive interactive applications with a curiosity for WebGL. Follow me to see my journey through tech!
+I'm a passionate Software Engineer experimenting intuitive interactive applications with a curiosity for WebGL, and AI. Follow me to see my journey through tech!
 
-- I'm currently working on Catpanion, a stress-free productivity based appplication in a 3D space
-- I'm currently learning TypeScript, PostGres, C#
+- I'm currently working on Catpanion, a stress-free productivity based application in a 3D space
+- I'm currently learning TypeScript, PostGres, Python
 - Ask me about React Three Fiber, 3D Modeling!
 
 :hammer_and_wrench: My Tech Stack:
