@@ -18,6 +18,7 @@ I'm a passionate Software Engineer experimenting intuitive interactive applicati
 <img alt="Node" src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+<img alt="Typescript" src="https://img.shields.io/badge/Typescript-5FA04E?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?logo=CSS&logoColor=white&style=for-the-badge" />
 <img alt="SCSS" src="https://img.shields.io/badge/SASS-CC6699?logo=SASS&logoColor=white&style=for-the-badge" />
 <img alt="MySQL" src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
