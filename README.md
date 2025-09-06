@@ -15,7 +15,7 @@ I'm a passionate Software Engineer experimenting intuitive interactive applicati
 :hammer_and_wrench: My Tech Stack:
 <div>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="React-Native" src="https://img.shields.io/badge/ReactNative-61DAFB?logo=react-native&logoColor=white&style=for-the-badge" />
+  <img alt="React-Native" src="https://img.shields.io/badge/ReactNative-61DAFB?logo=reactnative&logoColor=white&style=for-the-badge" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?logo=sqlite&logoColor=white&style=for-the-badge" />
 <img alt="Node" src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
