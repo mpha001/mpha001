@@ -9,12 +9,13 @@ Hello, it's Miny here!</center> </b>
 I'm a passionate Software Engineer experimenting intuitive interactive applications with a curiosity for WebGL, and AI. Follow me to see my journey through tech!
 
 - I'm currently working on Catpanion, a stress-free productivity based application in a 3D space
-- I'm currently learning TypeScript, PostGres, Python
-- Ask me about React Three Fiber, 3D Modeling!
+- I'm currently learning TypeScript, Python, & mobile apps. 
+- Ask me about anything tech or 3D! 
 
 :hammer_and_wrench: My Tech Stack:
 <div>
 <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="React-Native" src="https://img.shields.io/badge/React-native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img alt="Node" src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge" />
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
