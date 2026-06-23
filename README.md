@@ -10,7 +10,8 @@ I'm a passionate Software Engineer experimenting intuitive interactive applicati
 
 - I'm currently working on Catpanion, a stress-free productivity based application in a 3D space
 - I'm currently learning TypeScript, Python, & mobile apps. 
-- Ask me about anything tech or 3D! 
+- Ask me about anything tech or 3D!
+- Any inquiries/contact me at minypham001@gmail.com
 
 :hammer_and_wrench: My Tech Stack:
 <div>
